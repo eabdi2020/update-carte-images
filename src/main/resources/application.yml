@@ -1,0 +1,12 @@
+spring:
+  main:
+    web-application-type: none
+  datasource:
+    url: jdbc:ucanaccess://d:/docs/access/25Cartes/data.accdb;openExclusive=false;ignoreCase=true
+    driver-class-name: net.ucanaccess.jdbc.UcanaccessDriver
+
+imapges:
+  rphoto: D:\\docs\\access\\25Cartes\\rphoto\\
+  sphoto: D:\\docs\\access\\25Cartes\\sphoto\\
+  qr: D:\\docs\\access\\25Cartes\\qr\\
+

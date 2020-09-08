@@ -1,0 +1,101 @@
+           _____                    _____                    _____
+          /\    \                  /\    \                  /\    \
+         /::\    \                /::\    \                /::\    \
+        /::::\    \              /::::\    \              /::::\    \
+       /::::::\    \            /::::::\    \            /::::::\    \
+      /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \
+     /:::/  \:::\    \        /:::/__\:::\    \        /:::/__\:::\    \
+    /:::/    \:::\    \      /::::\   \:::\    \       \:::\   \:::\    \
+   /:::/    / \:::\    \    /::::::\   \:::\    \    ___\:::\   \:::\    \
+  /:::/    /   \:::\ ___\  /:::/\:::\   \:::\____\  /\   \:::\   \:::\    \
+ /:::/____/     \:::|    |/:::/  \:::\   \:::|    |/::\   \:::\   \:::\____\
+ \:::\    \     /:::|____|\::/    \:::\  /:::|____|\:::\   \:::\   \::/    /
+  \:::\    \   /:::/    /  \/_____/\:::\/:::/    /  \:::\   \:::\   \/____/
+   \:::\    \ /:::/    /            \::::::/    /    \:::\   \:::\    \
+    \:::\    /:::/    /              \::::/    /      \:::\   \:::\____\
+     \:::\  /:::/    /                \::/____/        \:::\  /:::/    /
+      \:::\/:::/    /                  ~~               \:::\/:::/    /
+       \::::::/    /                                     \::::::/    /
+        \::::/    /                                       \::::/    /
+         \::/____/                                         \::/    /
+          ~~                                                \/____/
+2020-09-08 23:38:18.460  INFO 10820 --- [           main] m.d.ole.OleUpdateCarteImagesApplication  : Starting OleUpdateCarteImagesApplication v1.0.0 on EABDI-PORT with PID 10820 (D:\docs\access\update-carte-images\target\update-carte-images-1.0.0.jar started by eabdi in D:\docs\access\update-carte-images)
+2020-09-08 23:38:18.463  INFO 10820 --- [           main] m.d.ole.OleUpdateCarteImagesApplication  : No active profile set, falling back to default profiles: default
+2020-09-08 23:38:19.538  INFO 10820 --- [           main] m.d.ole.OleUpdateCarteImagesApplication  : Started OleUpdateCarteImagesApplication in 1.647 seconds (JVM running for 2.032)
+2020-09-08 23:38:19.574  INFO 10820 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-09-08 23:38:20.396  INFO 10820 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-09-08 23:38:20.488  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040407020403, image length : 3888,
+2020-09-08 23:38:20.499  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040407021316, image length : 4241,
+2020-09-08 23:38:20.508  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 02030501106003, image length : 9503,
+2020-09-08 23:38:20.517  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040407020404, image length : 3125,
+2020-09-08 23:38:20.525  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 02030702404031, image length : 7650,
+2020-09-08 23:38:20.532  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 03020204102001, image length : 3635,
+2020-09-08 23:38:20.541  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040407021313, image length : 3867,
+2020-09-08 23:38:20.546  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 04030700406013, image length : 8275,
+2020-09-08 23:38:20.550  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 02030300703001, image length : 7667,
+2020-09-08 23:38:20.559  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 02030105607009, image length : 28679,
+2020-09-08 23:38:20.566  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040407010302, image length : 2831,
+2020-09-08 23:38:20.572  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040407010301, image length : 3204,
+2020-09-08 23:38:20.577  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 02040601006024, image length : 8881,
+2020-09-08 23:38:20.585  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 10010700203112, image length : 3401,
+2020-09-08 23:38:20.589  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 02030703504005, image length : 11148,
+2020-09-08 23:38:20.594  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040407021503, image length : 2892,
+2020-09-08 23:38:20.598  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040407011107, image length : 3882,
+2020-09-08 23:38:20.605  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040407021504, image length : 4245,
+2020-09-08 23:38:20.609  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040407011801, image length : 3760,
+2020-09-08 23:38:20.614  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040407021203, image length : 3492,
+2020-09-08 23:38:20.620  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 04030800703055, image length : 6857,
+2020-09-08 23:38:20.624  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040405050169, image length : 5486,
+2020-09-08 23:38:20.629  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 040407010709, image length : 4207,
+2020-09-08 23:38:20.633  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 03020217904017, image length : 5686,
+2020-09-08 23:38:20.638  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update RPhoto , id : 03020414601015, image length : 4330,
+2020-09-08 23:38:20.648  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 10010700203112, image length : 2899,
+2020-09-08 23:38:20.653  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040407020403, image length : 3533,
+2020-09-08 23:38:20.656  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040407021316, image length : 3598,
+2020-09-08 23:38:20.660  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040407021503, image length : 2790,
+2020-09-08 23:38:20.663  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 02030501106003, image length : 9464,
+2020-09-08 23:38:20.667  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040407011107, image length : 3801,
+2020-09-08 23:38:20.670  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040407020404, image length : 4604,
+2020-09-08 23:38:20.674  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040407021504, image length : 4074,
+2020-09-08 23:38:20.678  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040407011801, image length : 3425,
+2020-09-08 23:38:20.681  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 02030702404031, image length : 7394,
+2020-09-08 23:38:20.684  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 03020204102001, image length : 3285,
+2020-09-08 23:38:20.697  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040407021203, image length : 3830,
+2020-09-08 23:38:20.700  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040407021313, image length : 3662,
+2020-09-08 23:38:20.704  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 04030800703055, image length : 8468,
+2020-09-08 23:38:20.707  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040405050169, image length : 3002,
+2020-09-08 23:38:20.710  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 04030700406013, image length : 5955,
+2020-09-08 23:38:20.713  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040407010709, image length : 3769,
+2020-09-08 23:38:20.715  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 02030300703001, image length : 3872,
+2020-09-08 23:38:20.719  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 02030105607009, image length : 30626,
+2020-09-08 23:38:20.722  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040407010302, image length : 3041,
+2020-09-08 23:38:20.725  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 040407010301, image length : 3955,
+2020-09-08 23:38:20.728  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 02040601006024, image length : 3081,
+2020-09-08 23:38:20.732  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update SPhoto , id : 03020414601015, image length : 3533,
+2020-09-08 23:38:20.740  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040407020403, image length : 1076,
+2020-09-08 23:38:20.746  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040407021316, image length : 1058,
+2020-09-08 23:38:20.750  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 02030501106003, image length : 1090,
+2020-09-08 23:38:20.754  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040407020404, image length : 1052,
+2020-09-08 23:38:20.757  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 02030702404031, image length : 1031,
+2020-09-08 23:38:20.760  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 03020204102001, image length : 1101,
+2020-09-08 23:38:20.763  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040407021313, image length : 1077,
+2020-09-08 23:38:20.767  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 04030700406013, image length : 1136,
+2020-09-08 23:38:20.770  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 02030300703001, image length : 1095,
+2020-09-08 23:38:20.774  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 02030105607009, image length : 1081,
+2020-09-08 23:38:20.779  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040407010302, image length : 1096,
+2020-09-08 23:38:20.783  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040407010301, image length : 1078,
+2020-09-08 23:38:20.787  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 02040601006024, image length : 1049,
+2020-09-08 23:38:20.792  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 10010700203112, image length : 1094,
+2020-09-08 23:38:20.794  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 02030703504005, image length : 1104,
+2020-09-08 23:38:20.798  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040407021503, image length : 1055,
+2020-09-08 23:38:20.802  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040407011107, image length : 1070,
+2020-09-08 23:38:20.806  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040407021504, image length : 1060,
+2020-09-08 23:38:20.809  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040407011801, image length : 1101,
+2020-09-08 23:38:20.813  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040407021203, image length : 1057,
+2020-09-08 23:38:20.817  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 04030800703055, image length : 1030,
+2020-09-08 23:38:20.821  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040405050169, image length : 1075,
+2020-09-08 23:38:20.826  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 040407010709, image length : 1067,
+2020-09-08 23:38:20.829  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 03020217904017, image length : 1089,
+2020-09-08 23:38:20.832  INFO 10820 --- [           main] mr.dps.ole.service.OleImportService      : update QR , id : 03020414601015, image length : 1057,
+2020-09-08 23:38:20.834  INFO 10820 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-09-08 23:38:20.838  INFO 10820 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
